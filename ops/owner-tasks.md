@@ -7,13 +7,13 @@
 - 表示名・プロフィール画像・自己紹介に、本名・勤務先・地域を入れない。
 - 個人のGmailを「再設定用メール」にしない（電話番号はGoogleの仕組み上必要なので、個人の番号でかまいません。公開はされません）。
 
-## 1. TaneBako 用 Gmail を作る
+## 1. TaneBako 用 Gmail を作る（2026-11-15 完了: tanebako.lab@gmail.com）
 - [ ] 別プロファイルで Google アカウントを新規作成（名前「TaneBako」、アドレス例: `tanebako.xxx@gmail.com`）
 - [ ] 2段階認証をオンにする
 - [ ] ログイン情報は **個人の 1Password 保管庫** に保存（AI-Automation には入れない）
 - [ ] 作ったアドレスを Claude に伝える（アドレスは秘密ではないので伝えてOK。台帳に書きます）
 
-## 2. TaneBako 用 GitHub を作る
+## 2. TaneBako 用 GitHub を作る（2026-11-15 作成: tanebakolab-glitch。トークンの Contents 権限を Read and write に直す作業が残り）
 - [ ] 上の Gmail で GitHub に登録（ユーザー名例: `tanebako`。取られていれば `tanebako-lab` など）
 - [ ] 2段階認証をオンにする（ログイン情報は個人の保管庫へ）
 - [ ] Settings → Emails で
