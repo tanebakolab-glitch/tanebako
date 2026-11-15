@@ -28,6 +28,27 @@
 - [ ] トークンを 1Password **`AI-Automation`** に項目 `tanebako-github`（フィールド `credential`）で保存
 - [ ] Claude に「GitHub できた、ユーザー名は ○○」と伝える → push の設定をします
 
-## 3. 以降（準備期間中に案内します）
-- X・note のアカウント開設（承認制。命名案は Claude が出します）
-- YouTube・TikTok の名前の確保
+## 3. X・note・YouTube・TikTok のアカウントを作る（名前は `decisions/2026-11-15-account-names.md`）
+どれも TaneBako 用ブラウザプロファイルで、tanebako.lab@gmail.com を使って作ります。ID の第1候補は `tanebako`、取られていたら `tanebako_lab` です。
+
+### 全部のアカウントで共通
+- [ ] 2段階認証をオンにする（ログイン情報は個人の保管庫へ）
+- [ ] 「メールアドレスや電話番号で見つけてもらう」設定をオフにする（電話番号が個人と同じなので**必須**）
+- [ ] 連絡先の同期はしない／個人のアカウントをフォローしない
+- [ ] できた ID を Claude に伝える（台帳に書きます）
+
+### X（3アカウント。1アカウントにつきメールアドレス1つが必要なので、Gmail のエイリアスを使う）
+- [ ] 枠1: `@tanebako`（→`@tanebako_lab`）／メールは tanebako.lab@gmail.com
+- [ ] 枠2: `@tanebako_medit`／メールは tanebako.lab+medit@gmail.com
+- [ ] 枠3: `@tanebako_agri`／メールは tanebako.lab+agri@gmail.com（確保だけ。長く放置すると削除されることがあるので、数ヶ月に1回ログインする）
+- [ ] 表示名・自己紹介・アイコンは仮のままでよい（Claude が案を出します）
+
+### note
+- [ ] ID は `tanebako`（→`tanebako_lab`）、表示名は「タネバコ（TaneBako）」
+
+### YouTube（確保だけ）
+- [ ] Google アカウント（tanebako.lab）でチャンネルを作り、ハンドルを `@tanebako` にする
+- [ ] 枠3用にもう1つチャンネル（ブランドアカウント）を作り、ハンドルを `@tanebako_agri` にする
+
+### TikTok（確保だけ）
+- [ ] ID は `tanebako`（→`tanebako_lab`）
