@@ -13,7 +13,7 @@
 - [ ] ログイン情報は **個人の 1Password 保管庫** に保存（AI-Automation には入れない）
 - [ ] 作ったアドレスを Claude に伝える（アドレスは秘密ではないので伝えてOK。台帳に書きます）
 
-## 2. TaneBako 用 GitHub を作る（2026-11-15 作成: tanebakolab-glitch。トークンの Contents 権限を Read and write に直す作業が残り）
+## 2. TaneBako 用 GitHub を作る（2026-11-15 完了: tanebakolab-glitch、push 設定済み）
 - [ ] 上の Gmail で GitHub に登録（ユーザー名例: `tanebako`。取られていれば `tanebako-lab` など）
 - [ ] 2段階認証をオンにする（ログイン情報は個人の保管庫へ）
 - [ ] Settings → Emails で

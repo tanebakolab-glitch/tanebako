@@ -104,3 +104,4 @@
 - 通知: ntfy（`ntfy-send`）は公開サーバーを通るので、本文は「承認待ちN件」程度にし、内容・個人情報は載せない。
 - 公開物に、このサーバーの名前（`glitch-srv`）・tailnet 名・ユーザー名・ファイルパス・ポータルのURLを含めない。
 - 編集したら区切りごとにコミットする。作者は `TaneBako`（個人名を使わない）。
+- GitHub: `tanebakolab-glitch/tanebako`（private）。push/pull は `tanebako-git push` / `tanebako-git pull`（トークンは op-sa 経由で渡り、値は表示されない）。素の `git push` は認証が通らない。コミットしたら区切りで push する。
