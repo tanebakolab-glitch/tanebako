@@ -13,7 +13,7 @@
 | note | tanebako（タネバコ（TaneBako）） | 1,2 | 準備中 | 2026-11-16 | tanebako.lab@gmail.com | 個人保管庫 | | 稼働予定。マガジンで枠1・枠2を分ける。パスキー設定済み |
 | YouTube | @tanebako（TaneBako） | — | 準備中 | 2026-11-16 | tanebako.lab@gmail.com | 個人保管庫（Googleアカウント） | | 名前の確保のみ |
 | YouTube | @tanebako_agri（タネバコ農業テック（準備中）） | 3 | 準備中 | 2026-11-16 | tanebako.lab@gmail.com | 個人保管庫（Googleアカウント） | | 名前の確保のみ。ブランドアカウント |
-| TikTok | tanebako | — | 休眠（確保のみ） | 2026-11-16 | Gmail（Google ログインで登録） | なし（Google ログイン。Gmail の2段階認証で守る） | | 名前の確保のみ。メール登録は認証コードが通らず、Google ログインで作成
+| TikTok | tanebako | — | 休眠（確保のみ） | 2026-11-16 | Gmail（Google ログインで登録） | 個人保管庫（登録時にパスワードも設定。Google ログインも可） | | 名前の確保のみ。メール登録は認証コードが通らず、Google ログインで作成
 
 
 ## 参考
