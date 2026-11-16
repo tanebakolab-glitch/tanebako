@@ -45,7 +45,7 @@
 - [ ] 表示名・自己紹介・アイコンは仮のままでよい（Claude が案を出します）
 
 ### note
-- [ ] ID は `tanebako`（→`tanebako_lab`）、表示名は「タネバコ（TaneBako）」
+- [x] ID は `tanebako`（→`tanebako_lab`）、表示名は「タネバコ（TaneBako）」（2026-11-16 作成: tanebako）
 
 ### YouTube（確保だけ）
 - [ ] Google アカウント（tanebako.lab）でチャンネルを作り、ハンドルを `@tanebako` にする
