@@ -48,8 +48,8 @@
 - [x] ID は `tanebako`（→`tanebako_lab`）、表示名は「タネバコ（TaneBako）」（2026-11-16 作成: tanebako）
 
 ### YouTube（確保だけ）
-- [ ] Google アカウント（tanebako.lab）でチャンネルを作り、ハンドルを `@tanebako` にする
-- [ ] 枠3用にもう1つチャンネル（ブランドアカウント）を作り、ハンドルを `@tanebako_agri` にする
+- [x] Google アカウント（tanebako.lab）でチャンネルを作り、ハンドルを `@tanebako` にする
+- [x] 枠3用にもう1つチャンネル（ブランドアカウント）を作り、ハンドルを `@tanebako_agri` にする
 
 ### TikTok（確保だけ）
 - [ ] ID は `tanebako`（→`tanebako_lab`）

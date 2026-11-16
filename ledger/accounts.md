@@ -11,6 +11,6 @@
 | X | （未開設）予定 @tanebako_medit | 2 | 準備中 | | Gmail（+medit エイリアス） | | | 稼働予定。2026-11-16 登録が途中で止まる（X側の時間制限とみられる）。翌日以降に再試行 |
 | X | （未開設）予定 @tanebako_agri | 3 | 準備中 | | Gmail（+agri エイリアス） | | | 名前の確保のみ。数ヶ月に1回ログイン |
 | note | tanebako（タネバコ（TaneBako）） | 1,2 | 準備中 | 2026-11-16 | tanebako.lab@gmail.com | 個人保管庫 | | 稼働予定。マガジンで枠1・枠2を分ける。パスキー設定済み |
-| YouTube | （未開設）予定 @tanebako（→@tanebako_lab） | — | 準備中 | | Gmail | | | 名前の確保のみ |
-| YouTube | （未開設）予定 @tanebako_agri | 3 | 準備中 | | Gmail | | | 名前の確保のみ |
+| YouTube | @tanebako（TaneBako） | — | 準備中 | 2026-11-16 | tanebako.lab@gmail.com | 個人保管庫（Googleアカウント） | | 名前の確保のみ |
+| YouTube | @tanebako_agri（タネバコ農業テック（準備中）） | 3 | 準備中 | 2026-11-16 | tanebako.lab@gmail.com | 個人保管庫（Googleアカウント） | | 名前の確保のみ。ブランドアカウント |
 | TikTok | （未開設）予定 tanebako（→tanebako_lab） | — | 準備中 | | Gmail | | | 名前の確保のみ |
