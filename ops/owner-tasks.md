@@ -38,7 +38,7 @@
 - [ ] できた ID を Claude に伝える（台帳に書きます）
 
 ### X（3アカウント。1アカウントにつきメールアドレス1つが必要なので、Gmail のエイリアスを使う）
-- [ ] 枠1: `@tanebako`（→`@tanebako_lab`）／メールは tanebako.lab@gmail.com
+- [x] 枠1: `@tanebako`（→`@tanebako_lab`）／メールは tanebako.lab@gmail.com（2026-11-16 作成: @tanebako）
 - [ ] 枠2: `@tanebako_medit`／メールは tanebako.lab+medit@gmail.com
 - [ ] 枠3: `@tanebako_agri`／メールは tanebako.lab+agri@gmail.com（確保だけ。長く放置すると削除されることがあるので、数ヶ月に1回ログインする）
 - [ ] 表示名・自己紹介・アイコンは仮のままでよい（Claude が案を出します）
