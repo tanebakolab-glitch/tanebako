@@ -41,6 +41,7 @@
 - [x] 枠1: `@tanebako`（→`@tanebako_lab`）／メールは tanebako.lab@gmail.com（2026-11-16 作成: @tanebako）
 - [ ] 枠2: `@tanebako_medit`／メールは tanebako.lab+medit@gmail.com
 - [ ] 枠3: `@tanebako_agri`／メールは tanebako.lab+agri@gmail.com（確保だけ。長く放置すると削除されることがあるので、数ヶ月に1回ログインする）
+- [ ] 注意: X は同じ回線・ブラウザから続けて登録すると、エラーも出ずにボタンが反応しなくなる（2026-11-16）。1日1アカウントまでにして、止まったら翌日に回す
 - [ ] 表示名・自己紹介・アイコンは仮のままでよい（Claude が案を出します）
 
 ### note
