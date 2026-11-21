@@ -39,7 +39,7 @@
 
 ### X（3アカウント。1アカウントにつきメールアドレス1つが必要なので、Gmail のエイリアスを使う）
 - [x] 枠1: `@tanebako`（→`@tanebako_lab`）／メールは tanebako.lab@gmail.com（2026-11-16 作成: @tanebako）
-- [ ] 枠2: `@tanebako_medit`／メールは tanebako.lab+medit@gmail.com
+- [x] 枠2: `@tanebako_medit`／メールは tanebako.lab+medit@gmail.com（2026-11-21 作成）
 - [ ] 枠3: `@tanebako_agri`／メールは tanebako.lab+agri@gmail.com（確保だけ。長く放置すると削除されることがあるので、数ヶ月に1回ログインする）
 - [ ] 注意: X は同じ回線・ブラウザから続けて登録すると、エラーも出ずにボタンが反応しなくなる（2026-11-16）。1日1アカウントまでにして、止まったら翌日に回す。枠2は 2026-11-17 も止まったので、48時間あけて 2026-11-19 以降に再試行（駄目なら電話番号登録か枠2専用Gmail）
 - [ ] 表示名・自己紹介・アイコンは仮のままでよい（Claude が案を出します）
