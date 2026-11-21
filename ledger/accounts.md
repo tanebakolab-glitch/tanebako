@@ -7,8 +7,8 @@
 |---|---|---|---|---|---|---|---|---|
 | Gmail | tanebako.lab@gmail.com | 全体 | 稼働中 | 2026-11-15 | — | 個人保管庫 | | 全アカウントの親 |
 | GitHub | tanebakolab-glitch | 全体 | 稼働中 | 2026-11-15 | Gmail（公開用は 356962486+tanebakolab-glitch@users.noreply.github.com） | 人: 個人保管庫／PAT: tanebako-github（フィールド password） | | private リポジトリ tanebako。PATの期限を記入 |
-| X | @tanebako | 1 | 準備中 | 2026-11-16 | tanebako.lab@gmail.com | 個人保管庫 | | 稼働予定。2段階認証・見つけやすさオフは確認待ち |
-| X | @tanebako_medit（タネバコ医療IT｜AI実務検証） | 2 | 準備中 | 2026-11-21 | tanebako.lab+medit@gmail.com | 個人保管庫 | | 稼働予定。11/16〜17 は登録が止まり、48時間以上あけて 11/21 に作成。2段階認証・見つけやすさオフは確認待ち |
+| X | @tanebako | 1 | 準備中 | 2026-11-16 | tanebako.lab@gmail.com | 個人保管庫 | | 稼働予定。見つけやすさオフ済み。2段階認証は確認待ち |
+| X | @tanebako_medit（タネバコ医療IT｜AI実務検証） | 2 | 準備中 | 2026-11-21 | tanebako.lab+medit@gmail.com | 個人保管庫 | | 稼働予定。11/16〜17 は登録が止まり、48時間以上あけて 11/21 に作成。見つけやすさオフ済み。2段階認証は確認待ち |
 | X | （未開設）予定 @tanebako_agri | 3 | 準備中 | | tanebako.lab+agri@gmail.com（予定） | | | 名前の確保のみ。数ヶ月に1回ログイン |
 | note | tanebako（タネバコ（TaneBako）） | 1,2 | 準備中 | 2026-11-16 | tanebako.lab@gmail.com | 個人保管庫 | | 稼働予定。マガジンで枠1・枠2を分ける。パスキー設定済み |
 | YouTube | @tanebako（TaneBako） | — | 準備中 | 2026-11-16 | tanebako.lab@gmail.com | 個人保管庫（Googleアカウント） | | 名前の確保のみ |

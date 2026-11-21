@@ -61,7 +61,7 @@
 | アカウント | 2段階認証 | 見つけやすさ・おすすめをオフ | パスワードを個人保管庫に保存 |
 |---|---|---|---|
 | X @tanebako | [ ] | [ ] | [ ] |
-| X @tanebako_medit | [ ] | [ ] | [ ] |
+| X @tanebako_medit | [ ] | [x] | [ ] |
 | X @tanebako_agri | [ ] | [ ] | [ ] |
 | note tanebako | [ ] | — | [ ] |
 | YouTube @tanebako / @tanebako_agri | Gmail 側で [ ] | — | Gmail と同じ |
